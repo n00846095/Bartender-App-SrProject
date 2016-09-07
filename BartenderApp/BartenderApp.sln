@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BartenderApp", "BartenderApp\BartenderApp.csproj", "{8C3CCB82-0D16-4631-B357-5C8A6A5E945C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BartenderApp.Model", "Model\BartenderApp.Model.csproj", "{BBF36753-4C37-4DDB-8AD3-8DAFEE979916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BartenderApp.Controller", "Controller\BartenderApp.Controller.csproj", "{894C2D1A-7024-4A19-8DDF-5D5B5BDE74CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3CCB82-0D16-4631-B357-5C8A6A5E945C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3CCB82-0D16-4631-B357-5C8A6A5E945C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3CCB82-0D16-4631-B357-5C8A6A5E945C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3CCB82-0D16-4631-B357-5C8A6A5E945C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF36753-4C37-4DDB-8AD3-8DAFEE979916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF36753-4C37-4DDB-8AD3-8DAFEE979916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF36753-4C37-4DDB-8AD3-8DAFEE979916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF36753-4C37-4DDB-8AD3-8DAFEE979916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894C2D1A-7024-4A19-8DDF-5D5B5BDE74CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894C2D1A-7024-4A19-8DDF-5D5B5BDE74CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894C2D1A-7024-4A19-8DDF-5D5B5BDE74CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894C2D1A-7024-4A19-8DDF-5D5B5BDE74CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
